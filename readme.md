@@ -33,7 +33,7 @@ streamlit run main.py
 
 The app will open in your browser. Upload a transcript file (TXT or Markdown), and it will display a structured action plan. You can optionally push the tasks to Notion with a single click.
 
-** Use Cases**
+## Use Cases
 
 1.Product and project managers summarizing meetings
 2.Customer success teams capturing client discussions
@@ -41,6 +41,6 @@ The app will open in your browser. Upload a transcript file (TXT or Markdown), a
 4.Teachers and facilitators generating session summaries
 5. Government offices automating task follow-ups from inter-departmental meetings
 
-**Disclaimer**
+## Disclaimer
 
 This is a demonstration project intended for educational and prototyping purposes. It is not yet optimized for production use. Please handle all API keys securely and avoid uploading sensitive or confidential transcripts without proper safeguards.
