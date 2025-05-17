@@ -1,0 +1,30 @@
+[09:00] Sarah (PM): Thanks for joining, team. Let’s get started. First up — product roadmap. We agreed last week that Q3 should focus on the onboarding revamp. Any objections?
+
+[09:01] Ahmed (Eng Lead): No objections. We’ve already started scoping it out. ETA for the first prototype is July 15.
+
+[09:02] Julia (Design): I’ll need to finalize the wireframes by June 25 to meet that timeline.
+
+[09:03] Sarah: Perfect. Julia, can you share a draft by the 20th so we can review async?
+
+[09:03] Julia: Noted. I’ll send it by EOD on the 20th.
+
+[09:04] Sarah: Let’s talk pricing experiments. Growth team proposed testing tiered pricing for enterprise leads. Thoughts?
+
+[09:05] Tom (Growth): We’d like to run a 2-week test starting July 1. KPIs will be conversion rate and revenue per visitor.
+
+[09:06] Sarah: Approved. Tom, can you loop in finance and legal for the T&Cs?
+
+[09:07] Tom: Will do. I’ll send them a brief by tomorrow.
+
+[09:08] Ahmed: Small update — we hit a blocker in the backend migration. Our dependency on the auth provider isn’t fully resolved.
+
+[09:09] Sarah: That’s a risk. Please escalate to the vendor and flag this in the Monday sync.
+
+[09:10] Julia: Can I get clarity on whether the onboarding redesign includes mobile?
+
+[09:10] Sarah: Great question. No — let’s keep mobile out of scope for Q3.
+
+[09:11] Sarah: To summarize — onboarding revamp is in motion. Julia to send wireframes by June 20, prototype ETA July 15. Tom to start pricing test July 1 and involve finance/legal. Backend blocker to be escalated. Mobile out of scope for now.
+
+[09:12] Sarah: Thanks everyone!
+
