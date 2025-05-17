@@ -1,0 +1,21 @@
+[09:02:00] John: Welcome, everyone. This is the official kickoff for the Nova project.
+
+[09:02:04] Priya: Excited to get started! What's the scope again?
+
+[09:02:07] John: We’re focusing on Phase 1 — onboarding module and basic analytics.
+
+[09:02:11] Ahmed: Will the client provide the initial data sets?
+
+[09:02:14] John: Yes, they’ll send it over by end of the week.
+
+[09:02:17] Priya: What’s the deadline for Phase 1?
+
+[09:02:19] John: We're aiming for June 10th.
+
+[09:02:22] Ahmed: Okay, I’ll begin architecture planning.
+
+[09:02:25] Priya: I’ll get started on UI wireframes.
+
+[09:02:27] John: Perfect. Let’s sync weekly every Tuesday.
+
+[09:02:30] All: Sounds good!

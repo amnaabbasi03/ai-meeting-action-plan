@@ -1,0 +1,27 @@
+[00:00:02] Sarah: Okay, let's get started. Can everyone hear me alright?
+
+[00:00:04] Mike: Yep, all good.
+
+[00:00:05] Aisha: Loud and clear.
+
+[00:00:07] Sarah: Great. So quick check-in—where are we with the dashboard implementation?
+
+[00:00:12] Mike: I’ve completed most of the backend work. Waiting on API access from the other team.
+
+[00:00:19] Aisha: I’m still finalizing the UI changes, should be done by Thursday.
+
+[00:00:24] Sarah: Awesome. Any blockers?
+
+[00:00:26] Mike: Just the API issue. It’s delaying me a bit.
+
+[00:00:30] Sarah: Noted. I’ll escalate that today.
+
+[00:00:33] Aisha: Also, we need to finalize who’s presenting in the client call next week.
+
+[00:00:37] Sarah: Right, Mike, can you take that?
+
+[00:00:39] Mike: Sure, I can prep something by Monday.
+
+[00:00:42] Sarah: Perfect. Anything else?
+
+[00:00:44] All: No, we're good.
