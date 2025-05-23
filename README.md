@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Meeting Action Plan Generator
+#  AI-Powered Meeting Action Plan Generator
 
 [Live App →](https://ai-meeting-action-plan-4.streamlit.app)
 
@@ -7,20 +7,20 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This tool is designed to help users quickly turn raw meeting transcripts into clear summaries and task lists.  
 It supports transcripts from **Zoom**, **Google Meet**, or **Teams**, and generates:
 
-- ✅ Clear action items (with owners and deadlines)  
-- 🧠 Key decisions  
-- 📝 Summary bullet points  
+-  Clear action items (with owners and deadlines)  
+-  Key decisions  
+-  Summary bullet points  
 
 You can optionally push the extracted tasks directly to a **Notion** task database.
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 ### 1. Clone the repository
 
@@ -64,7 +64,7 @@ You can then click to push these directly to your Notion task table.
 
 ---
 
-## 💼 Use Cases
+##  Use Cases
 
 1. **Product and project managers** summarizing meetings  
 2. **Customer success teams** capturing client discussions  
@@ -74,7 +74,7 @@ You can then click to push these directly to your Notion task table.
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This is a demonstration project intended for educational and prototyping purposes.  
 It is not optimized for production use. Please handle all API keys securely and avoid uploading sensitive or confidential transcripts without proper safeguards.
